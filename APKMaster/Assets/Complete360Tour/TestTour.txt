@@ -1,0 +1,184 @@
+{
+    "NodeDataList": [
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\1CliffEdge",
+            "MediaName": "1CliffEdge",
+            "EntryYaw": 0.0,
+            "UID": -375360768,
+            "Elements": [],
+            "NodePosition": {
+                "x": -60.0,
+                "y": -60.0
+            },
+            "Name": "1CliffEdge",
+            "$type": "DigitalSalmon.C360.ImageMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\NO",
+            "MediaName": "NO",
+            "EntryYaw": 0.0,
+            "UID": -637349376,
+            "Elements": [
+                {
+                    "TargetNodeUID": -375360768,
+                    "MappedPosition": {
+                        "x": 0.4420732,
+                        "y": 0.1724846
+                    },
+                    "IconIndex": 0,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": 150.0,
+                "y": -90.0
+            },
+            "Name": "NO",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\3SierraHub",
+            "MediaName": "3SierraHub",
+            "EntryYaw": 0.0,
+            "UID": 113753856,
+            "Elements": [],
+            "NodePosition": {
+                "x": 150.0,
+                "y": -270.0
+            },
+            "Name": "3SierraHub",
+            "$type": "DigitalSalmon.C360.ImageMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "NO5",
+            "MediaName": "NO5",
+            "EntryYaw": 0.0,
+            "UID": -816010496,
+            "Elements": [
+                {
+                    "TargetNodeUID": -375360768,
+                    "MappedPosition": {
+                        "x": 0.91565,
+                        "y": 0.1889119
+                    },
+                    "IconIndex": 0,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -60.0,
+                "y": -210.0
+            },
+            "Name": "NO5",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\out",
+            "MediaName": "out",
+            "EntryYaw": 0.0,
+            "UID": -1179697408,
+            "Elements": [],
+            "NodePosition": {
+                "x": -360.0,
+                "y": -240.0
+            },
+            "Name": "out",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\in",
+            "MediaName": "in",
+            "EntryYaw": 0.0,
+            "UID": -1231598592,
+            "Elements": [],
+            "NodePosition": {
+                "x": -210.0,
+                "y": -60.0
+            },
+            "Name": "in",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\out2",
+            "MediaName": "out2",
+            "EntryYaw": 0.0,
+            "UID": -968878080,
+            "Elements": [],
+            "NodePosition": {
+                "x": -180.0,
+                "y": -270.0
+            },
+            "Name": "out2",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\out3",
+            "MediaName": "out3",
+            "EntryYaw": 0.0,
+            "UID": -644263424,
+            "Elements": [],
+            "NodePosition": {
+                "x": -360.0,
+                "y": -60.0
+            },
+            "Name": "out3",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\zzz1",
+            "MediaName": "zzz1",
+            "EntryYaw": 0.0,
+            "UID": 1168658944,
+            "Elements": [
+                {
+                    "TargetNodeUID": -120706048,
+                    "MappedPosition": {
+                        "x": 0.0,
+                        "y": 0.4414784
+                    },
+                    "IconIndex": 0,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -570.0,
+                "y": -330.0
+            },
+            "Name": "zzz1",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\zzz2",
+            "MediaName": "zzz2",
+            "EntryYaw": 0.0,
+            "UID": -120706048,
+            "Elements": [
+                {
+                    "TargetNodeUID": 1168658944,
+                    "MappedPosition": {
+                        "x": 0.2510163,
+                        "y": 0.4271047
+                    },
+                    "IconIndex": 0,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -570.0,
+                "y": -150.0
+            },
+            "Name": "zzz2",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        }
+    ]
+}

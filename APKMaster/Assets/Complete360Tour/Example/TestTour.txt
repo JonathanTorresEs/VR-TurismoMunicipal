@@ -1,0 +1,18 @@
+{
+    "NodeDataList": [
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\samsung",
+            "MediaName": "samsung",
+            "EntryYaw": 0.0,
+            "UID": 865778176,
+            "Elements": [],
+            "NodePosition": {
+                "x": 91.0,
+                "y": 0.0
+            },
+            "Name": "samsung",
+            "$type": "DigitalSalmon.C360.ImageMediaNodeData"
+        }
+    ]
+}

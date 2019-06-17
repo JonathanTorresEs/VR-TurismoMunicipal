@@ -1,0 +1,42 @@
+{
+    "NodeDataList": [
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\1506\\DJI_0632",
+            "MediaName": "DJI_0632",
+            "EntryYaw": 0.0,
+            "UID": 2034871040,
+            "Elements": [
+                {
+                    "TargetNodeUID": 1448706304,
+                    "MappedPosition": {
+                        "x": 0.4833111,
+                        "y": 0.17659
+                    },
+                    "IconIndex": 0,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": 150.0,
+                "y": -60.0
+            },
+            "Name": "DJI_0632",
+            "$type": "DigitalSalmon.C360.ImageMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360 Images\\1506\\DJI_0716",
+            "MediaName": "DJI_0716",
+            "EntryYaw": 0.0,
+            "UID": 1448706304,
+            "Elements": [],
+            "NodePosition": {
+                "x": -60.0,
+                "y": -60.0
+            },
+            "Name": "DJI_0716",
+            "$type": "DigitalSalmon.C360.ImageMediaNodeData"
+        }
+    ]
+}
