@@ -1,0 +1,5 @@
+{
+    "ToolsOpen": false,
+    "LatestTourPath": "D:/Repositorio/VR-TurismoMunicipal/APKMaster/Assets/Nueva carpeta/NewTour.txt",
+    "LatestResourcePath": "D:/Repositorio/VR-TurismoMunicipal/APKMaster/Assets/Complete360Tour/Example/Resources/Images/Kitchen.jpg"
+}

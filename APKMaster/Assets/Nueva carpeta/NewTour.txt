@@ -1,0 +1,52 @@
+{
+    "NodeDataList": [
+        {
+            "IsStereo": false,
+            "ResourcePath": "Images\\Frontdoor",
+            "MediaName": "Frontdoor",
+            "EntryYaw": 0.0,
+            "UID": -482038784,
+            "Elements": [
+                {
+                    "TargetNodeUID": 807326208,
+                    "MappedPosition": {
+                        "x": 1.0,
+                        "y": 0.4307283
+                    },
+                    "IconIndex": 3,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -60.0,
+                "y": -30.0
+            },
+            "Name": "Frontdoor",
+            "$type": "DigitalSalmon.C360.ImageMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "Images\\Kitchen",
+            "MediaName": "Kitchen",
+            "EntryYaw": 0.0,
+            "UID": 807326208,
+            "Elements": [
+                {
+                    "TargetNodeUID": -482038784,
+                    "MappedPosition": {
+                        "x": 0.8970332,
+                        "y": 0.4520426
+                    },
+                    "IconIndex": 0,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": 60.0,
+                "y": -150.0
+            },
+            "Name": "Kitchen",
+            "$type": "DigitalSalmon.C360.ImageMediaNodeData"
+        }
+    ]
+}
