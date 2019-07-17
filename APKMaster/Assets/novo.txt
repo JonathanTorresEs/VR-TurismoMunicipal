@@ -1,0 +1,679 @@
+{
+    "NodeDataList": [
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Letras 1 Final",
+            "MediaName": "Letras 1 Final",
+            "EntryYaw": 0.00811359,
+            "UID": -1426866432,
+            "Elements": [
+                {
+                    "TargetNodeUID": 1209425664,
+                    "MappedPosition": {
+                        "x": 0.6531442,
+                        "y": 0.5869566
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -480.0,
+                "y": -1650.0
+            },
+            "Name": "Letras 1 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Letras 2 Final",
+            "MediaName": "Letras 2 Final",
+            "EntryYaw": 0.00811359,
+            "UID": 1209425664,
+            "Elements": [
+                {
+                    "TargetNodeUID": -1426866432,
+                    "MappedPosition": {
+                        "x": 0.1237323,
+                        "y": 0.4999998
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": 1579802368,
+                    "MappedPosition": {
+                        "x": 0.1825558,
+                        "y": 0.5041408
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -360.0,
+                "y": -1650.0
+            },
+            "Name": "Letras 2 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Letras 3 Final",
+            "MediaName": "Letras 3 Final",
+            "EntryYaw": 0.0,
+            "UID": 1579802368,
+            "Elements": [
+                {
+                    "TargetNodeUID": 1209425664,
+                    "MappedPosition": {
+                        "x": 0.1866126,
+                        "y": 0.4668737
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -1004380160,
+                    "MappedPosition": {
+                        "x": 0.2242424,
+                        "y": 0.4630769
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -240.0,
+                "y": -1650.0
+            },
+            "Name": "Letras 3 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Letras 4 Final",
+            "MediaName": "Letras 4 Final",
+            "EntryYaw": 0.0,
+            "UID": -1004380160,
+            "Elements": [
+                {
+                    "TargetNodeUID": 1579802368,
+                    "MappedPosition": {
+                        "x": 0.09545454,
+                        "y": 0.5676923
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -1653436672,
+                    "MappedPosition": {
+                        "x": 0.1318182,
+                        "y": 0.5738462
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -120.0,
+                "y": -1650.0
+            },
+            "Name": "Letras 4 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Letras 5 Final",
+            "MediaName": "Letras 5 Final",
+            "EntryYaw": 0.0,
+            "UID": -1653436672,
+            "Elements": [
+                {
+                    "TargetNodeUID": -1004380160,
+                    "MappedPosition": {
+                        "x": 0.1424242,
+                        "y": 0.5153846
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -1760431616,
+                    "MappedPosition": {
+                        "x": 0.1833333,
+                        "y": 0.5184615
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": 0.0,
+                "y": -1650.0
+            },
+            "Name": "Letras 5 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Letras 6 Final",
+            "MediaName": "Letras 6 Final",
+            "EntryYaw": 0.0,
+            "UID": -1760431616,
+            "Elements": [
+                {
+                    "TargetNodeUID": -1653436672,
+                    "MappedPosition": {
+                        "x": 0.2136362,
+                        "y": 0.4784617
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -1875620864,
+                    "MappedPosition": {
+                        "x": 0.248485,
+                        "y": 0.4784626
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": 120.0,
+                "y": -1650.0
+            },
+            "Name": "Letras 6 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Plaza 1 Final",
+            "MediaName": "Plaza 1 Final",
+            "EntryYaw": 0.0,
+            "UID": -1875620864,
+            "Elements": [
+                {
+                    "TargetNodeUID": -1760431616,
+                    "MappedPosition": {
+                        "x": 0.1181818,
+                        "y": 0.6046153
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -810464256,
+                    "MappedPosition": {
+                        "x": 0.138927,
+                        "y": 0.6059976
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": 120.0,
+                "y": -1530.0
+            },
+            "Name": "Plaza 1 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Plaza 2 Final",
+            "MediaName": "Plaza 2 Final",
+            "EntryYaw": 0.0,
+            "UID": -810464256,
+            "Elements": [
+                {
+                    "TargetNodeUID": -1875620864,
+                    "MappedPosition": {
+                        "x": 0.2503438,
+                        "y": 0.5334725
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -540291840,
+                    "MappedPosition": {
+                        "x": 0.2792295,
+                        "y": 0.5334733
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": 0.0,
+                "y": -1530.0
+            },
+            "Name": "Plaza 2 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Plaza 3 Final",
+            "MediaName": "Plaza 3 Final",
+            "EntryYaw": 0.0,
+            "UID": -540291840,
+            "Elements": [
+                {
+                    "TargetNodeUID": -810464256,
+                    "MappedPosition": {
+                        "x": 0.2572215,
+                        "y": 0.5948396
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -1381263104,
+                    "MappedPosition": {
+                        "x": 0.2751032,
+                        "y": 0.5948396
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -120.0,
+                "y": -1530.0
+            },
+            "Name": "Plaza 3 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Plaza 4 Final",
+            "MediaName": "Plaza 4 Final",
+            "EntryYaw": 0.0,
+            "UID": -1381263104,
+            "Elements": [
+                {
+                    "TargetNodeUID": -540291840,
+                    "MappedPosition": {
+                        "x": 0.2806052,
+                        "y": 0.5474198
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -920844800,
+                    "MappedPosition": {
+                        "x": 0.3108667,
+                        "y": 0.5474203
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -240.0,
+                "y": -1530.0
+            },
+            "Name": "Plaza 4 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Plaza 5 Final",
+            "MediaName": "Plaza 5 Final",
+            "EntryYaw": 0.0,
+            "UID": -920844800,
+            "Elements": [
+                {
+                    "TargetNodeUID": -1381263104,
+                    "MappedPosition": {
+                        "x": 0.2118294,
+                        "y": 0.5223152
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -1745952768,
+                    "MappedPosition": {
+                        "x": 0.2393398,
+                        "y": 0.5251046
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -360.0,
+                "y": -1530.0
+            },
+            "Name": "Plaza 5 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Plaza 6 Final",
+            "MediaName": "Plaza 6 Final",
+            "EntryYaw": 0.002751032,
+            "UID": -1745952768,
+            "Elements": [
+                {
+                    "TargetNodeUID": -920844800,
+                    "MappedPosition": {
+                        "x": 0.1072903,
+                        "y": 0.5836817
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -1729564160,
+                    "MappedPosition": {
+                        "x": 0.1265475,
+                        "y": 0.5836823
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -480.0,
+                "y": -1530.0
+            },
+            "Name": "Plaza 6 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Plaza 7 Final",
+            "MediaName": "Plaza 7 Final",
+            "EntryYaw": 0.0,
+            "UID": -1729564160,
+            "Elements": [
+                {
+                    "TargetNodeUID": -1745952768,
+                    "MappedPosition": {
+                        "x": 0.1458047,
+                        "y": 0.611576
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": 635729664,
+                    "MappedPosition": {
+                        "x": 0.1788171,
+                        "y": 0.611576
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -600.0,
+                "y": -1530.0
+            },
+            "Name": "Plaza 7 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Plaza 8 Final",
+            "MediaName": "Plaza 8 Final",
+            "EntryYaw": 0.0,
+            "UID": 635729664,
+            "Elements": [
+                {
+                    "TargetNodeUID": -1729564160,
+                    "MappedPosition": {
+                        "x": 0.2297111,
+                        "y": 0.5613668
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -2124464384,
+                    "MappedPosition": {
+                        "x": 0.2593583,
+                        "y": 0.5609757
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -600.0,
+                "y": -1410.0
+            },
+            "Name": "Plaza 8 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Presidencia Final",
+            "MediaName": "Presidencia Final",
+            "EntryYaw": 0.0,
+            "UID": -2124464384,
+            "Elements": [
+                {
+                    "TargetNodeUID": 635729664,
+                    "MappedPosition": {
+                        "x": 0.2513369,
+                        "y": 0.604336
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -1202449408,
+                    "MappedPosition": {
+                        "x": 0.2780748,
+                        "y": 0.601626
+                    },
+                    "IconIndex": 3,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": 1521355520,
+                    "MappedPosition": {
+                        "x": 0.3008021,
+                        "y": 0.604336
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -480.0,
+                "y": -1410.0
+            },
+            "Name": "Presidencia Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Recorrido Final Final",
+            "MediaName": "Recorrido Final Final",
+            "EntryYaw": 0.0,
+            "UID": -1202449408,
+            "Elements": [
+                {
+                    "TargetNodeUID": -2124464384,
+                    "MappedPosition": {
+                        "x": 0.1136363,
+                        "y": 0.7208669
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -360.0,
+                "y": -1320.0
+            },
+            "Name": "Recorrido Final Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Kiosko Final",
+            "MediaName": "Kiosko Final",
+            "EntryYaw": 0.0,
+            "UID": 1521355520,
+            "Elements": [
+                {
+                    "TargetNodeUID": -2124464384,
+                    "MappedPosition": {
+                        "x": 0.4425137,
+                        "y": 0.5880755
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -852686336,
+                    "MappedPosition": {
+                        "x": 0.4705882,
+                        "y": 0.5880759
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -300.0,
+                "y": -1410.0
+            },
+            "Name": "Kiosko Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Catedral 1 Final",
+            "MediaName": "Catedral 1 Final",
+            "EntryYaw": 0.3315508,
+            "UID": -852686336,
+            "Elements": [
+                {
+                    "TargetNodeUID": 1521355520,
+                    "MappedPosition": {
+                        "x": 0.28877,
+                        "y": 0.4796745
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": 1512607488,
+                    "MappedPosition": {
+                        "x": 0.3195187,
+                        "y": 0.4823848
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -180.0,
+                "y": -1410.0
+            },
+            "Name": "Catedral 1 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Catedral 2 Final",
+            "MediaName": "Catedral 2 Final",
+            "EntryYaw": 0.0,
+            "UID": 1512607488,
+            "Elements": [
+                {
+                    "TargetNodeUID": -852686336,
+                    "MappedPosition": {
+                        "x": 0.2780749,
+                        "y": 0.4173442
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -1107697664,
+                    "MappedPosition": {
+                        "x": 0.2981284,
+                        "y": 0.4173442
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": -60.0,
+                "y": -1410.0
+            },
+            "Name": "Catedral 2 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Catedral 3 Final",
+            "MediaName": "Catedral 3 Final",
+            "EntryYaw": 0.0,
+            "UID": -1107697664,
+            "Elements": [
+                {
+                    "TargetNodeUID": 1512607488,
+                    "MappedPosition": {
+                        "x": 0.1898089,
+                        "y": 0.46
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "TargetNodeUID": -111766528,
+                    "MappedPosition": {
+                        "x": 0.2178344,
+                        "y": 0.46
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": 90.0,
+                "y": -1410.0
+            },
+            "Name": "Catedral 3 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        },
+        {
+            "IsStereo": false,
+            "ResourcePath": "360Videos\\Catedral 4 Final",
+            "MediaName": "Catedral 4 Final",
+            "EntryYaw": 0.0,
+            "UID": -111766528,
+            "Elements": [
+                {
+                    "TargetNodeUID": -1107697664,
+                    "MappedPosition": {
+                        "x": 0.2394905,
+                        "y": 0.4987097
+                    },
+                    "IconIndex": 2,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                }
+            ],
+            "NodePosition": {
+                "x": 90.0,
+                "y": -1290.0
+            },
+            "Name": "Catedral 4 Final",
+            "$type": "DigitalSalmon.C360.VideoMediaNodeData"
+        }
+    ]
+}
