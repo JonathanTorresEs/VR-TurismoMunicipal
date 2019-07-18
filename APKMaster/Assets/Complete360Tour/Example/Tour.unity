@@ -365,7 +365,7 @@ Prefab:
         type: 2}
       propertyPath: tourData
       value: 
-      objectReference: {fileID: 4900000, guid: 7c3bca6229079fa469bf0d8f5e46b6d7, type: 3}
+      objectReference: {fileID: 4900000, guid: 35b69738ce97a7643931ca59800c584a, type: 3}
     - target: {fileID: 114814261744376768, guid: f3cfd890529c4034c8240d0b7b0507d8,
         type: 2}
       propertyPath: entryId
