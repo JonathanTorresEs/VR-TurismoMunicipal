@@ -10,11 +10,19 @@
                 {
                     "TargetNodeUID": 1209425664,
                     "MappedPosition": {
-                        "x": 0.6531442,
-                        "y": 0.5869566
+                        "x": 0.6514778,
+                        "y": 0.5900831
                     },
                     "IconIndex": 1,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Plaza De Armas ",
+                    "MappedPosition": {
+                        "x": 0.6514778,
+                        "y": 0.5683438
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -34,8 +42,8 @@
                 {
                     "TargetNodeUID": -1426866432,
                     "MappedPosition": {
-                        "x": 0.03423347,
-                        "y": 0.5555553
+                        "x": 0.0346062,
+                        "y": 0.5374396
                     },
                     "IconIndex": 2,
                     "$type": "DigitalSalmon.C360.HotspotElement"
@@ -43,11 +51,27 @@
                 {
                     "TargetNodeUID": 1579802368,
                     "MappedPosition": {
-                        "x": 0.5250376,
-                        "y": 0.5500352
+                        "x": 0.5250596,
+                        "y": 0.5326088
                     },
                     "IconIndex": 1,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Letras",
+                    "MappedPosition": {
+                        "x": 0.0346062,
+                        "y": 0.5181159
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Plaza De Armas ",
+                    "MappedPosition": {
+                        "x": 0.5238663,
+                        "y": 0.5157005
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -67,8 +91,8 @@
                 {
                     "TargetNodeUID": 1209425664,
                     "MappedPosition": {
-                        "x": 0.03148136,
-                        "y": 0.5103517
+                        "x": 0.03221957,
+                        "y": 0.5036231
                     },
                     "IconIndex": 2,
                     "$type": "DigitalSalmon.C360.HotspotElement"
@@ -76,11 +100,27 @@
                 {
                     "TargetNodeUID": -1004380160,
                     "MappedPosition": {
-                        "x": 0.5309256,
+                        "x": 0.5380856,
                         "y": 0.5307097
                     },
                     "IconIndex": 1,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Letras",
+                    "MappedPosition": {
+                        "x": 0.03102625,
+                        "y": 0.4867149
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Plaza De Armas ",
+                    "MappedPosition": {
+                        "x": 0.5369934,
+                        "y": 0.5036232
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -114,6 +154,22 @@
                     },
                     "IconIndex": 1,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Letras",
+                    "MappedPosition": {
+                        "x": 0.001193317,
+                        "y": 0.513285
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Plaza De Armas ",
+                    "MappedPosition": {
+                        "x": 0.4964199,
+                        "y": 0.5060385
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -147,6 +203,22 @@
                     },
                     "IconIndex": 1,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Letras",
+                    "MappedPosition": {
+                        "x": 0.01073987,
+                        "y": 0.5012075
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Plaza De Armas ",
+                    "MappedPosition": {
+                        "x": 0.4832934,
+                        "y": 0.4987919
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -180,6 +252,22 @@
                     },
                     "IconIndex": 1,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Entrar a plaza de armas ",
+                    "MappedPosition": {
+                        "x": 0.6384257,
+                        "y": 0.5229469
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Letras",
+                    "MappedPosition": {
+                        "x": 0.01073986,
+                        "y": 0.5181159
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -231,6 +319,38 @@
                     },
                     "IconIndex": 5,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Kiosko",
+                    "MappedPosition": {
+                        "x": 0.3780789,
+                        "y": 0.5286781
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Palacio Municipal",
+                    "MappedPosition": {
+                        "x": 0.5143198,
+                        "y": 0.5132849
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Letras",
+                    "MappedPosition": {
+                        "x": 0.7887828,
+                        "y": 0.508454
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a edificio de Catastro",
+                    "MappedPosition": {
+                        "x": 0.2410501,
+                        "y": 0.4915456
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -277,11 +397,43 @@
                 {
                     "TargetNodeUID": -540291840,
                     "MappedPosition": {
-                        "x": 0.7634394,
-                        "y": 0.5544135
+                        "x": 0.7622461,
+                        "y": 0.5495826
                     },
                     "IconIndex": 5,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Acercarse al Palacio Municipal",
+                    "MappedPosition": {
+                        "x": 0.03102634,
+                        "y": 0.5157002
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Letras",
+                    "MappedPosition": {
+                        "x": 0.2410501,
+                        "y": 0.5108696
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Kiosko",
+                    "MappedPosition": {
+                        "x": 0.4665871,
+                        "y": 0.5301934
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al H. Congreso del Estado",
+                    "MappedPosition": {
+                        "x": 0.7625298,
+                        "y": 0.5277777
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -324,6 +476,30 @@
                     },
                     "IconIndex": 5,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Palacio Municipal",
+                    "MappedPosition": {
+                        "x": 0.221957,
+                        "y": 0.5157005
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al H. Congreso del Estado",
+                    "MappedPosition": {
+                        "x": 0.5,
+                        "y": 0.508454
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Kiosko",
+                    "MappedPosition": {
+                        "x": 0.3830549,
+                        "y": 0.5132851
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -366,6 +542,30 @@
                     },
                     "IconIndex": 5,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Kiosko",
+                    "MappedPosition": {
+                        "x": 0.2434368,
+                        "y": 0.5205312
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a La Casa de la Moneda",
+                    "MappedPosition": {
+                        "x": 0.4928401,
+                        "y": 0.5253622
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Palacio Municipal",
+                    "MappedPosition": {
+                        "x": 0.01312649,
+                        "y": 0.5181161
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -408,6 +608,30 @@
                     },
                     "IconIndex": 5,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Kiosko",
+                    "MappedPosition": {
+                        "x": 0.3878282,
+                        "y": 0.4891302
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Catedral",
+                    "MappedPosition": {
+                        "x": 0.50358,
+                        "y": 0.4963768
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al H. Congreso del Estado",
+                    "MappedPosition": {
+                        "x": 0.2315036,
+                        "y": 0.4915456
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -421,7 +645,7 @@
             "IsStereo": false,
             "ResourcePath": "360Videos\\Plaza 6 Final",
             "MediaName": "Plaza 6 Final",
-            "EntryYaw": 0.5,
+            "EntryYaw": 0.6706444,
             "UID": -1745952768,
             "Elements": [
                 {
@@ -459,6 +683,38 @@
                     },
                     "IconIndex": 5,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Entrar a la Catedral",
+                    "MappedPosition": {
+                        "x": 0.50358,
+                        "y": 0.5253624
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Kiosko",
+                    "MappedPosition": {
+                        "x": 0.0,
+                        "y": 0.4891303
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a edificio de Catastro",
+                    "MappedPosition": {
+                        "x": 0.2708829,
+                        "y": 0.4722221
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a La Casa de la Moneda",
+                    "MappedPosition": {
+                        "x": 0.7577567,
+                        "y": 0.4867148
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -501,6 +757,30 @@
                     },
                     "IconIndex": 5,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Kiosko",
+                    "MappedPosition": {
+                        "x": 0.6252986,
+                        "y": 0.5374398
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Catedral",
+                    "MappedPosition": {
+                        "x": 0.4832936,
+                        "y": 0.5181158
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a edificio de Catastro",
+                    "MappedPosition": {
+                        "x": 0.7422433,
+                        "y": 0.5012074
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -529,8 +809,8 @@
                 {
                     "TargetNodeUID": -1729564160,
                     "MappedPosition": {
-                        "x": 0.5035798,
-                        "y": 0.5084541
+                        "x": 0.5023866,
+                        "y": 0.4987922
                     },
                     "IconIndex": 5,
                     "$type": "DigitalSalmon.C360.HotspotElement"
@@ -543,6 +823,30 @@
                     },
                     "IconIndex": 5,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Kiosko",
+                    "MappedPosition": {
+                        "x": 0.7517899,
+                        "y": 0.4867146
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Catedral",
+                    "MappedPosition": {
+                        "x": 0.50358,
+                        "y": 0.4794687
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Palacio Municipal",
+                    "MappedPosition": {
+                        "x": 0.9928405,
+                        "y": 0.4915458
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -562,7 +866,7 @@
                 {
                     "TargetNodeUID": -1202449408,
                     "MappedPosition": {
-                        "x": 0.2804614,
+                        "x": 0.2530152,
                         "y": 0.5170847
                     },
                     "IconIndex": 3,
@@ -571,11 +875,27 @@
                 {
                     "TargetNodeUID": -810464256,
                     "MappedPosition": {
-                        "x": 0.2553699,
+                        "x": 0.2875894,
                         "y": 0.5205314
                     },
                     "IconIndex": 2,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al tour aereo",
+                    "MappedPosition": {
+                        "x": 0.25179,
+                        "y": 0.493961
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Plaza De Armas ",
+                    "MappedPosition": {
+                        "x": 0.2875896,
+                        "y": 0.4915456
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -596,10 +916,18 @@
                     "TargetNodeUID": -810464256,
                     "MappedPosition": {
                         "x": 0.221957,
-                        "y": 0.4842994
+                        "y": 0.4867148
                     },
                     "IconIndex": 7,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Volver a plaza de armas ",
+                    "MappedPosition": {
+                        "x": 0.221957,
+                        "y": 0.4649757
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -613,7 +941,7 @@
             "IsStereo": false,
             "ResourcePath": "360Videos\\Kiosko Final",
             "MediaName": "Kiosko Final",
-            "EntryYaw": 0.4952267,
+            "EntryYaw": 0.3412888,
             "UID": 1521355520,
             "Elements": [
                 {
@@ -687,6 +1015,70 @@
                     },
                     "IconIndex": 5,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Catedral",
+                    "MappedPosition": {
+                        "x": 0.49642,
+                        "y": 0.5374397
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a La Casa de la Moneda",
+                    "MappedPosition": {
+                        "x": 0.6264917,
+                        "y": 0.5374399
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al H. Congreso del Estado",
+                    "MappedPosition": {
+                        "x": 0.7541766,
+                        "y": 0.5471017
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir al Palacio Municipal",
+                    "MappedPosition": {
+                        "x": 0.004773269,
+                        "y": 0.5350243
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Letras",
+                    "MappedPosition": {
+                        "x": 0.1145585,
+                        "y": 0.5446861
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a edificio de Catastro",
+                    "MappedPosition": {
+                        "x": 0.2112172,
+                        "y": 0.5374397
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Mirar lado del Palacio Municipal",
+                    "MappedPosition": {
+                        "x": 0.8699283,
+                        "y": 0.5326089
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Mirar lado de la Catedral",
+                    "MappedPosition": {
+                        "x": 0.372315,
+                        "y": 0.5398554
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -706,8 +1098,8 @@
                 {
                     "TargetNodeUID": 1512607488,
                     "MappedPosition": {
-                        "x": 0.3195187,
-                        "y": 0.4823848
+                        "x": 0.3254853,
+                        "y": 0.4848002
                     },
                     "IconIndex": 1,
                     "$type": "DigitalSalmon.C360.HotspotElement"
@@ -720,6 +1112,22 @@
                     },
                     "IconIndex": 2,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Volver a plaza de armas ",
+                    "MappedPosition": {
+                        "x": 0.2923628,
+                        "y": 0.4625601
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Avanzar",
+                    "MappedPosition": {
+                        "x": 0.3245824,
+                        "y": 0.4601448
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -753,6 +1161,22 @@
                     },
                     "IconIndex": 1,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Avanzar",
+                    "MappedPosition": {
+                        "x": 0.2816229,
+                        "y": 0.4480675
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\volver",
+                    "MappedPosition": {
+                        "x": 0.2553699,
+                        "y": 0.4432367
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -786,6 +1210,22 @@
                     },
                     "IconIndex": 1,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Avanzar",
+                    "MappedPosition": {
+                        "x": 0.2183771,
+                        "y": 0.4359902
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Labels\\volver",
+                    "MappedPosition": {
+                        "x": 0.1897374,
+                        "y": 0.4384055
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {
@@ -805,11 +1245,36 @@
                 {
                     "TargetNodeUID": -1107697664,
                     "MappedPosition": {
-                        "x": 0.2394905,
-                        "y": 0.4987097
+                        "x": 0.2335239,
+                        "y": 0.5011252
                     },
                     "IconIndex": 2,
                     "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\volver",
+                    "MappedPosition": {
+                        "x": 0.2326969,
+                        "y": 0.4770528
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "TargetNodeUID": -1745952768,
+                    "MappedPosition": {
+                        "x": 0.2601433,
+                        "y": 0.5012077
+                    },
+                    "IconIndex": 1,
+                    "$type": "DigitalSalmon.C360.HotspotElement"
+                },
+                {
+                    "PrefabPath": "Labels\\Ir a Plaza De Armas ",
+                    "MappedPosition": {
+                        "x": 0.25895,
+                        "y": 0.4770529
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {

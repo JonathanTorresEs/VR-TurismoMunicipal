@@ -369,7 +369,7 @@ Prefab:
     - target: {fileID: 114814261744376768, guid: f3cfd890529c4034c8240d0b7b0507d8,
         type: 2}
       propertyPath: entryId
-      value: Letras 1 Final
+      value: Kiosko Final
       objectReference: {fileID: 0}
     - target: {fileID: 114552692716730534, guid: f3cfd890529c4034c8240d0b7b0507d8,
         type: 2}
