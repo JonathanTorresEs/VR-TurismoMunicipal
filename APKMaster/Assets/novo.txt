@@ -23,6 +23,14 @@
                         "y": 0.5683438
                     },
                     "$type": "DigitalSalmon.C360.PrefabElement"
+                },
+                {
+                    "PrefabPath": "Menu\\MenuPlazaMunicipal",
+                    "MappedPosition": {
+                        "x": 0.7291166,
+                        "y": 0.5132848
+                    },
+                    "$type": "DigitalSalmon.C360.PrefabElement"
                 }
             ],
             "NodePosition": {

@@ -369,7 +369,7 @@ Prefab:
     - target: {fileID: 114814261744376768, guid: f3cfd890529c4034c8240d0b7b0507d8,
         type: 2}
       propertyPath: entryId
-      value: Kiosko Final
+      value: Letras 1 Final
       objectReference: {fileID: 0}
     - target: {fileID: 114552692716730534, guid: f3cfd890529c4034c8240d0b7b0507d8,
         type: 2}
@@ -379,6 +379,16 @@ Prefab:
     - target: {fileID: 114814261744376768, guid: f3cfd890529c4034c8240d0b7b0507d8,
         type: 2}
       propertyPath: autoBeginTour
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 82428420162973076, guid: f3cfd890529c4034c8240d0b7b0507d8,
+        type: 2}
+      propertyPath: spreadCustomCurve.m_RotationOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 328175688404875952, guid: f3cfd890529c4034c8240d0b7b0507d8,
+        type: 2}
+      propertyPath: m_Looping
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
