@@ -27,7 +27,7 @@
                 {
                     "PrefabPath": "Menu\\MenuPlazaMunicipal",
                     "MappedPosition": {
-                        "x": 0.7291166,
+                        "x": 0.73389,
                         "y": 0.5132848
                     },
                     "$type": "DigitalSalmon.C360.PrefabElement"
